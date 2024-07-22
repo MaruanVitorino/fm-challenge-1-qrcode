@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.fundo {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit';
+    border: 0;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.fundo_branco {
+    max-width: 320px;
+    max-height: 497px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 16px;
+    text-align: center;
+    box-shadow: 60px -16px, #000000;
+}
+
+.fundo_branco_imagem_qrcode {
+    max-width: 288px;
+    max-height: 288px;
+    border-radius: 10px;
+}
+
+.fundo_branco_texto{
+    max-width: 288px;
+    max-height: 129px;
+    padding: 24px 0px;
+}
+
+.fundo_branco_texto_titulo {
+    margin: 0;
+    font-size: 22px;
+    font-weight: 700;
+    color: #1F314F;
+    padding-bottom: 16px;
+}
+
+.fundo_branco_texto_paragrafo {
+    margin: 0;
+    padding: 0px 16px;
+    font-weight: 400;
+    font-size: 15px;
+    color: #7D889E;
+    text-align: center;
+}
