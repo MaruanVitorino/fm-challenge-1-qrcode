@@ -21,7 +21,7 @@
     border-radius: 20px;
     padding: 16px;
     text-align: center;
-    box-shadow: 60px -16px, #000000;
+    box-shadow: 5px 5px 5px 0px hsl(0, 0%, 59%, 0.2);
 }
 
 .fundo_branco_imagem_qrcode {

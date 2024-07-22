@@ -32,8 +32,8 @@ Com base nos meus conhecimentos adquiridos, desenvolver as página abaixo com HT
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solução URL: [QR code component - (HTML, CSS, Flex-Box e Viewport)](https://www.frontendmentor.io/solutions/frontend-mentor-qr-code-component---html-css-flex-box-e-viewport-DECB2zGDiH)
+- Site: [Frontend Mentor | QR code component](https://maruanvitorino.github.io/fm-challenge-1-qrcode/)
 
 ## Meu processo
 
